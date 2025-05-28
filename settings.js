@@ -1,8 +1,8 @@
 const settings = {
-  packname: 'BALMAIN_TC',
-  author: 'BALMAIN_TC‎',
-  botName: "BALMAIN_TC",
-  botOwner: 'BALMAIN_TC', // Your name
+  packname: '~❃𝑺𝑴𝑨𝑹𝑻✦_𝐁𝐀𝐋𝐌𝐀𝐈𝐍_𝐓𝐂❃',
+  author: '~❃𝑺𝑴𝑨𝑹𝑻✦_𝐁𝐀𝐋𝐌𝐀𝐈𝐍_𝐓𝐂❃‎',
+  botName: "~❃𝑺𝑴𝑨𝑹𝑻✦_𝐁𝐀𝐋𝐌𝐀𝐈𝐍_𝐓𝐂❃",
+  botOwner: '~❃𝑺𝑴𝑨𝑹𝑻✦_𝐁𝐀𝐋𝐌𝐀𝐈𝐍_𝐓𝐂❃', // Your name
   ownerNumber: '+237687496585', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
